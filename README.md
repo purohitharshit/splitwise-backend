@@ -1,4 +1,4 @@
-# Splitwise Clone
+# Splitwise Backend
 
 A comprehensive expense management application designed to help users manage group expenses, split bills, and track debts among friends or groups. This application offers features for managing expenses, facilitating settlements, and enabling seamless communication.
 
